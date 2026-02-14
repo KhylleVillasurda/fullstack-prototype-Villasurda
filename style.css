@@ -1,0 +1,59 @@
+:root {
+    --bs-font-sans-serif: 'Titillium Web', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.navbar-brand{
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.nav-link {
+    color:grey;
+}
+
+.landpage-list {
+    font-size: 20px;
+}
+
+.landpage-box {
+    background-color: #ADD8E6;
+    padding: 10px;
+    border: 1px solid #235e71;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+.landpage-gs-btn {
+    background-color: #66cdaa ;
+    border: 1px solid #008080;
+    border-radius: 10px;
+    display: block;
+    margin-top:10px;
+    padding: 10px 20px;
+}
+
+.landpage-gs-btn:hover {
+    background-color: #008080;
+    color: white;
+    transition-duration: 0.4s ;
+}
+
+.styled-font-1 {
+    font-family: Ubuntu Mono;
+    color: magenta;
+}
+
+.nav-btn {
+    background-color: transparent;
+    border-color: transparent;  
+    color: grey;
+    font-size: 16px;
+    text-align: left;
+}
+.nav-btn:hover {
+    color:#008080;
+    transition-duration :0.45s;
+}
+
+
+
